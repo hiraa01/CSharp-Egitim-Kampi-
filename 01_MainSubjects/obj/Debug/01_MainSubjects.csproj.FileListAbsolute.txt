@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Lenovo\Kodlar\C# Kurs Projeleri\CSharp-Egitim-Kampi-\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
